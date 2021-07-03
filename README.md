@@ -21,7 +21,7 @@ This analysis was done by creating a pivotable. Pivot table consists of value fr
 
 ### Analysis of Outcomes Based on Goals 
 
-[Outcomes_vs_Goals](https://user-images.githubusercontent.com/85950281/124354810-e6b6ea00-dbdb-11eb-9c3f-045786aa1fd7.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/85950281/124354854-2bdb1c00-dbdc-11eb-94d3-f80212b79601.png)
 
 This analysis was done by retrieving Percentage of Successful, failed & canceled plays with relation to goal range  
  
