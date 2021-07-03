@@ -19,6 +19,9 @@ This analysis was done by creating a pivotable. Pivot table consists of value fr
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/85950281/124354807-e3236300-dbdb-11eb-8c2d-f02fdd1ba1f2.png)
 
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/85950281/124357987-31406280-dbec-11eb-92d0-6349677bf55a.png)
+
+
 ### Analysis of Outcomes Based on Goals 
 
 This analysis was done by retrieving Percentage of Successful, failed & canceled plays with relation to goal range  
