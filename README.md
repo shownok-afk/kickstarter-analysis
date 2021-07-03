@@ -28,6 +28,9 @@ This analysis was done by retrieving Percentage of Successful, failed & canceled
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/85950281/124354854-2bdb1c00-dbdc-11eb-94d3-f80212b79601.png)
 
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/85950281/124358015-546b1200-dbec-11eb-8095-a0b4e21f8f8a.png)
+
+
 ### Challenges and Difficulties Encountered
 
 For these two analyses no significant challenges or difficulties were encountered. Though the extreme values found in goal column may cause mean to change significantly. We may get asymmetrical distribution. Also variance, standard deviation, quartiles 3 & 1 may change significantly. 
