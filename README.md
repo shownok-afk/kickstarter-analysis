@@ -21,10 +21,10 @@ This analysis was done by creating a pivotable. Pivot table consists of value fr
 
 ### Analysis of Outcomes Based on Goals 
 
+This analysis was done by retrieving Percentage of Successful, failed & canceled plays with relation to goal range  
+
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/85950281/124354854-2bdb1c00-dbdc-11eb-94d3-f80212b79601.png)
 
-This analysis was done by retrieving Percentage of Successful, failed & canceled plays with relation to goal range  
- 
 ### Challenges and Difficulties Encountered
 
 For these two analyses no significant challenges or difficulties were encountered. Though the extreme values found in goal column may cause mean to change significantly. We may get asymmetrical distribution. Also variance, standard deviation, quartiles 3 & 1 may change significantly. 
