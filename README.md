@@ -17,14 +17,14 @@ The second analysis was done to study out come based on goals for different play
 
 This analysis was done by creating a pivotable. Pivot table consists of value from launched date and outcomes of theater. 
 
-
+[Theater_Outcomes_vs_Launch](https://github.com/shownok-afk/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals 
 
 This analysis was done by retrieving Percentage of Successful, failed & canceled plays with relation to goal range  
 
-![Outcomes_vs_Goals](https://github.com/shownok-afk/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+[Outcomes_vs_Goals](https://github.com/shownok-afk/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 
 ### Challenges and Difficulties Encountered
